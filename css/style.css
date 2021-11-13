@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.849);
+}
+h1 {
+  font-family: "Brush Script MT", cursive;
+  font-size: 60px;
+  color: goldenrod;
+}
+a {
+  text-decoration: none;
+  color: rgb(255, 228, 160);
+  font-size: 20px;
+}
+li {
+  padding: 10px;
+  margin: 10px;
+  list-style: none;
+}
+img {
+  width: 700px;
+  height: auto;
+  margin-top: 40px;
+}
