@@ -1,3 +1,3 @@
 My first project in "The Odin Project". 
 
-Created a recipes website using HTML only
+Created a website using HTML only: https://MNasser02.github.io/odin-recipes
